@@ -61,7 +61,7 @@ color_button_for_calculating_next_step = (0, 255, 51)
 color_points = (69, 79, 219)
 color_button_draw = (205, 0, 255)
 
-freq_of_points = 0.03
+freq_of_points = 0.02
 
 points = []
 
